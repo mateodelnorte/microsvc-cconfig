@@ -1,0 +1,16 @@
+{
+  "name": "microsvc-cconfig",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mattwalters5@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cconfig": "0.0.1",
+    "microsvc": "0.0.0"
+  },
+  "repository": "git@github.com:mateodelnorte/microsvc-cconfig.git"
+}
